@@ -49,7 +49,7 @@ const WorkExperienceSection = () => {
             Key Contributions
           </h3>
           <p className="text-gray-300">
-            As a <strong>Front-End Developer</strong> and <strong>Database Admin</strong>, I contributed to the **visual design**, **relational database management**, and **end-to-end development** of the platform. My role involved creating a user-centric design, optimizing database performance, and ensuring the smooth deployment of the application.
+            As a <strong>Front-End Developer</strong> and <strong>Database Admin</strong>, I contributed to the visual design, relational database management, and end-to-end development of the platform. My role involved creating a user-centric design, optimizing database performance, and ensuring the smooth deployment of the application.
           </p>
           <p className="text-gray-300">
             This experience not only enhanced my technical skills but also honed my problem-solving abilities and understanding of real-world project management.

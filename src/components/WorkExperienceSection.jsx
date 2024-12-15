@@ -29,16 +29,16 @@ const WorkExperienceSection = () => {
           </h3>
           <ul className="list-disc list-inside text-gray-300">
             <li>
-              **Front-End Development**: Created intuitive user interfaces using **HTML**, **CSS**, and **JavaScript**, ensuring a responsive and visually appealing user experience.
+              Front-End Development: Created intuitive user interfaces using HTML, CSS, and JavaScript, ensuring a responsive and visually appealing user experience.
             </li>
             <li>
-              **Database Management**: Designed and managed relational databases using **MySQL**, applying normalization techniques and entity-relationship modeling.
+              Database Management: Designed and managed relational databases using MySQL, and Oracle, applying normalization techniques and entity-relationship modeling.
             </li>
             <li>
-              **Full-Stack Integration**: Integrated front-end and back-end systems, ensuring seamless functionality and secure communication.
+              Full-Stack Integration: Integrated front-end and back-end systems, ensuring seamless functionality and secure communication.
             </li>
             <li>
-              **Service-Based Features**: Developed a platform to offer integrated services, such as real estate, plumbing, carpentry, and home maintenance.
+              Service-Based Features: Developed a platform to offer integrated services, such as real estate, plumbing, carpentry, and home maintenance.
             </li>
           </ul>
         </div>
